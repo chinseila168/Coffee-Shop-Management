@@ -1,0 +1,6 @@
+{
+  "name": "Aura Roast - Coffee Shop & Management Suite",
+  "description": "Complete coffee shop management platform featuring customer website, mobile app experience, real-time order tracking, and comprehensive admin dashboard with inventory, recipe, and sales management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
